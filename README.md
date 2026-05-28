@@ -1,51 +1,71 @@
-# 👋 k4runa
+# k4runa
 > 16, Turkey. self-taught.
 >
 > fine-tuned models before i knew what a derivative was.
 
 ---
 
-## things i've shipped
+## things i've built
 
-| Project | Model | Accuracy | Stack |
-|---------|-------|----------|-------|
-| Turkish News Classifier | DistilBERT | 98% | FastAPI |
-| IMDB Sentiment Analysis | BERT | 87% | FastAPI |
-| Titanic Tabular | - | 83% | FastAPI |
+### Indium — 2D Game Engine (C++)
+scene editor · hot-reload native scripting · SAT physics · ECS architecture  
+runs on Windows, Linux, macOS
+
+### EcoFil — Media Library & Recommendation Platform
+JWT + Google OAuth from scratch · content-based recommendations · real-time chat  
+FastAPI · PostgreSQL · Docker
+
+### ML Projects
+| Project | Model | Accuracy |
+|---------|-------|----------|
+| Turkish News Classifier | DistilBERT | 98% |
+| IMDB Sentiment Analysis | BERT | 87% |
+| Titanic Tabular | — | 83% |
 
 ---
 
-## 💻 stack
+## stack
 
-<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
+
 
 ---
 
-## currently learning
+## currently
 
-- RAG (Retrieval Augmented Generation)
-- Docker containerization
-- React
-
-## next goal
-
-something bigger...
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=k4runa.k4runa)
-
-</div>
+- 3D rendering
+- C systems programming
+- looking for a long-term internship in Istanbul
