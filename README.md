@@ -1,4 +1,5 @@
 # k4runa
+
 > 16, Turkey. self-taught.
 >
 > fine-tuned models before i knew what a derivative was.
@@ -7,13 +8,11 @@
 
 ## things i've built
 
-### Indium — 2D Game Engine (C++)
-scene editor · hot-reload native scripting · SAT physics · ECS architecture  
-runs on Windows, Linux, macOS
+### [Indium](https://github.com/k4runa/indium) — 2D Game Engine `C++`
+scene editor · hot-reload scripting · SAT physics · ECS architecture · Windows / Linux / macOS
 
-### EcoFil — Media Library & Recommendation Platform
-JWT + Google OAuth from scratch · content-based recommendations · real-time chat  
-FastAPI · PostgreSQL · Docker
+### [EcoFil](https://github.com/k4runa/ecofil) — Media Library & Recommendation Platform `Python`
+JWT + Google OAuth · content-based recommendations · real-time chat · FastAPI · PostgreSQL · Docker
 
 ### ML Projects
 | Project | Model | Accuracy |
@@ -26,46 +25,11 @@ FastAPI · PostgreSQL · Docker
 
 ## stack
 
-
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## currently
-
 - 3D rendering
 - C systems programming
 - looking for a long-term internship in Istanbul
