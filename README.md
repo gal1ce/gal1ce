@@ -13,6 +13,8 @@ scene editor · hot-reload scripting · SAT physics · ECS architecture · Windo
 
 ### [EcoFil](https://github.com/k4runa/ecofil) — Media Library & Recommendation Platform `Python`
 JWT + Google OAuth · content-based recommendations · real-time chat · FastAPI · PostgreSQL · Docker
+### [eco](https://github.com/k4runa/eco) — Update Manager for Arch and Arch based distros. `Python`
+Systems · Easy to use  
 
 ### ML Projects
 | Project | Model | Accuracy |
