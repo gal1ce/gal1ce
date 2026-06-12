@@ -42,10 +42,6 @@ systems · easy to use
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k4runa&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=k4runa&theme=tokyo-night&hide_border=true" />
 </p>
 
