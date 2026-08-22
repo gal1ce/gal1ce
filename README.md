@@ -21,6 +21,10 @@ hand-written B+tree · paged binary disk format · buffer pool · write-ahead lo
 
 No SQLite, no JSON, no third-party database. Page I/O, the tree, and crash recovery are all written from scratch, because ordered lookup and ordered listing are what a B+tree is good at — which is exactly what the program is for.
 
+### [Yugen](https://github.com/k4runa/yugen) — Desktop Music Player `C++20`
+Saucer/WebKit · React/TS frontend · miniaudio · yt-dlp · Last.fm
+Local library scanning, YouTube and SoundCloud search with download, lyrics, playlists, Discord Rich Presence, and a recommendation page powered by Last.fm. Ships as an AppImage.
+
 ### [EcoFil](https://github.com/k4runa/ecofil) — Media Library & Discovery Platform `Python`
 FastAPI (async) · PostgreSQL + SQLAlchemy + Alembic · JWT + Google OAuth · RBAC · rate limiting · async TTL cache · Docker
 
