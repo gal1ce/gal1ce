@@ -52,9 +52,5 @@ trim · speed · compress, without memorizing flags · FTXUI · one-line install
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gal1ce&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/gal1ce/gal1ce/output/github-contribution-grid-snake-dark.svg" />
 </p>
