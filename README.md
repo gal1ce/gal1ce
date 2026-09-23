@@ -25,7 +25,7 @@ No SQLite, no JSON, no third-party database. Page I/O, the tree, and crash recov
 Saucer/WebKit · React/TS frontend · miniaudio · yt-dlp · Last.fm
 Local library scanning, YouTube and SoundCloud search with download, lyrics, playlists, Discord Rich Presence, and a recommendation page powered by Last.fm. Ships as an AppImage.
 
-### [EcoFil](https://github.com/gal1ce/ecofil) — Media Library & Discovery Platform `Python`
+### [EcoFil](https://github.com/gal1ce/ecofil) — Media Library & Discovery Platform `Python` (Private repo)
 FastAPI (async) · PostgreSQL + SQLAlchemy + Alembic · JWT + Google OAuth · RBAC · rate limiting · async TTL cache · Docker
 
 Aggregates TMDB, OMDb and AniList behind one provider interface with a merge layer, serves LLM-backed recommendations that explain themselves, and handles direct messaging with an inbox and message requests. Next.js 15 web client, Expo mobile client.
