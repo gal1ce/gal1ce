@@ -1,56 +1,100 @@
-# gal1ce
-> 16, Turkey. self-taught.
->
-> backend and systems. i like the layer underneath the one everybody uses.
-
----
-
-<img src="github-metrics.svg" />
-
----
-
-## Things i've built
-
-### [Indium](https://github.com/gal1ce/indium) — Narrative-First 2D Game Engine `C++20`
-scene editor · hot-reload native scripting · dialogue / quest / cutscene systems · SAT collision · component-based scene graph · Linux / macOS / Windows
-
-Scripts compile to shared libraries and reload at runtime, with the same toolchain the engine was built with. Properties reach the inspector through a single macro, no boilerplate.
-
-### [Kintsugi](https://github.com/gal1ce/kintsugi) — Storage Engine + Credential Manager `C++20`
-hand-written B+tree · paged binary disk format · buffer pool · write-ahead log · libsodium auth
-
-No SQLite, no JSON, no third-party database. Page I/O, the tree, and crash recovery are all written from scratch, because ordered lookup and ordered listing are what a B+tree is good at — which is exactly what the program is for.
-
-### [Yugen](https://github.com/gal1ce/yugen) — Desktop Music Player `C++23`
-Saucer/WebKit · React/TS frontend · miniaudio · yt-dlp · Last.fm
-Local library scanning, YouTube and SoundCloud search with download, lyrics, playlists, Discord Rich Presence, and a recommendation page powered by Last.fm. Ships as an AppImage.
-
-### [EcoFil](https://github.com/gal1ce/ecofil) — Media Library & Discovery Platform `Python` (Private repo)
-FastAPI (async) · PostgreSQL + SQLAlchemy + Alembic · JWT + Google OAuth · RBAC · rate limiting · async TTL cache · Docker
-
-Aggregates TMDB, OMDb and AniList behind one provider interface with a merge layer, serves LLM-backed recommendations that explain themselves, and handles direct messaging with an inbox and message requests. Next.js 15 web client, Expo mobile client.
-
-### [eco](https://github.com/gal1ce/eco) — Update Manager for Arch `Python`
-pacman · AUR · flatpak · tracked git repos, in one command
-
-Read-only checks run in parallel behind a live TUI, then you choose what to apply. Updates run one at a time with the real tool attached to your terminal, so prompts behave normally and the result you see is the one pacman actually reported.
-
-### [ffpilot](https://github.com/gal1ce/ffpilot) — ffmpeg TUI `C++17`
-trim · speed · compress, without memorizing flags · FTXUI · one-line installer
-
----
-
-## Also
-
-[Turkish news classifier](https://github.com/gal1ce/ttc4900) — BERT fine-tune on TTC4900, served over FastAPI. Some smaller ML experiments and a Discord bot live in private repos.
-
----
-
-## Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
+## Learning log
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gal1ce/gal1ce/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://www.gitskins.com/api/section/hero?username=gal1ce&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209331823%3Fu%3Da7cb706f877b9d5f1a0963f64147e3dd8791e8bc%26v%3D4" alt="gal1ce hero visual" />
 </p>
+
+**Enes** · Frontend or full-stack engineer
+
+## Currently learning
+
+> You could be brillant
+
+**Learning next**
+
+- C++
+- C
+- TypeScript
+
+📍 Based in **Istanbul** · 👥 **10** followers · **4** following
+
+## Tools I’m practicing
+
+- **C++** · 49%
+- **C** · 46%
+- **TypeScript** · 2%
+- **Python** · 1%
+- **CSS** · 1%
+
+## Projects in progress
+
+<details>
+<summary><b>indium</b> · C++</summary>
+
+A 2D game engine written in C++<br/>
+⭐ 4 · 🍴 0
+
+[View repository](https://github.com/gal1ce/indium)
+</details>
+
+<details>
+<summary><b>kintsugi</b> · C++</summary>
+
+ A from-scratch B+tree storage engine in C++, with a password manager on top<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/gal1ce/kintsugi)
+</details>
+
+<details>
+<summary><b>ffpilot</b> · C++</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 1 · 🍴 0
+
+[View repository](https://github.com/gal1ce/ffpilot)
+</details>
+
+<details>
+<summary><b>yugen</b> · TypeScript</summary>
+
+A desktop music player built with C++, Saucer, and React. <br/>
+⭐ 4 · 🍴 0
+
+[View repository](https://github.com/gal1ce/yugen)
+</details>
+
+<details>
+<summary><b>eco</b> · Python</summary>
+
+Upate manager for Arch - Arch-based distros.<br/>
+⭐ 6 · 🍴 0
+
+[View repository](https://github.com/gal1ce/eco)
+</details>
+
+## Progress so far
+
+- **Current streak:** 0 days
+- **Longest streak:** 14 days
+- **Active days:** 79 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=gal1ce&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209331823%3Fu%3Da7cb706f877b9d5f1a0963f64147e3dd8791e8bc%26v%3D4" alt="gal1ce stats visual" />
+</p>
+
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=gal1ce&theme=zen" alt="gal1ce contribution activity" />
+</p>
+
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=gal1ce&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F209331823%3Fu%3Da7cb706f877b9d5f1a0963f64147e3dd8791e8bc%26v%3D4" alt="gal1ce social visual" />
+</p>
+
+<a href="https://github.com/gal1ce">GitHub</a>
+
+<p align="center"><sub>Enes · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
