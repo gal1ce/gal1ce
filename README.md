@@ -26,8 +26,6 @@ Saucer/WebKit · React/TS frontend · miniaudio · yt-dlp · Last.fm
 
 Local library scanning, YouTube and SoundCloud search with download, lyrics, playlists, Discord Rich Presence, and a recommendation page powered by Last.fm. Ships as an AppImage.
 
-<img src="https://raw.githubusercontent.com/gal1ce/yugen/master/screenshots/home.png" width="720" />
-
 ### [EcoFil](https://github.com/gal1ce/ecofil) — Media Library & Discovery Platform `Python` (Private repo)
 FastAPI (async) · PostgreSQL + SQLAlchemy + Alembic · JWT + Google OAuth · RBAC · rate limiting · async TTL cache · Docker
 
