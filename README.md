@@ -23,7 +23,10 @@ No SQLite, no JSON, no third-party database. Page I/O, the tree, and crash recov
 
 ### [Yugen](https://github.com/gal1ce/yugen) — Desktop Music Player `C++23`
 Saucer/WebKit · React/TS frontend · miniaudio · yt-dlp · Last.fm
+
 Local library scanning, YouTube and SoundCloud search with download, lyrics, playlists, Discord Rich Presence, and a recommendation page powered by Last.fm. Ships as an AppImage.
+
+<img src="https://raw.githubusercontent.com/gal1ce/yugen/master/screenshots/home.png" width="720" />
 
 ### [EcoFil](https://github.com/gal1ce/ecofil) — Media Library & Discovery Platform `Python` (Private repo)
 FastAPI (async) · PostgreSQL + SQLAlchemy + Alembic · JWT + Google OAuth · RBAC · rate limiting · async TTL cache · Docker
@@ -47,7 +50,7 @@ trim · speed · compress, without memorizing flags · FTXUI · one-line install
 ---
 
 ## Stack
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
