@@ -1,5 +1,5 @@
 # gal1ce
-> 16, Turkey. self-taught.
+> 17, Turkey. self-taught.
 >
 > backend and systems. i like the layer underneath the one everybody uses.
 
